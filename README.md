@@ -1,4 +1,4 @@
-# TravelProject
+# Great Escape
 
 ### 프로젝트 목적
 
