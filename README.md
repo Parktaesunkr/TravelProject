@@ -1,4 +1,4 @@
-# Great Escape
+![header](https://capsule-render.vercel.app/api?type=Rect&color=auto&text=Great%20Escape&f)
 
 ### 프로젝트 목적
 
