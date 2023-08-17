@@ -45,3 +45,17 @@
 ![ERD](https://github.com/Parktaesunkr/Parktaesunkr/assets/129746792/8d6b4aa8-5177-4324-857a-b2deb2a117c1)
 
 
+
+## 시연 영상
+
+### 회원 가입
+https://github.com/Parktaesunkr/react-app/assets/129746792/9576cecc-675b-4aed-9438-a027b64f193d
+
+### 아이디 찾기
+https://github.com/Parktaesunkr/react-app/assets/129746792/095636fd-a140-4776-9501-d5195c172a91
+
+### 코드 시연 영상
+https://github.com/Parktaesunkr/react-app/assets/129746792/00d3b651-3a88-4cfb-8e2d-e98bc52b86e2
+
+
+
