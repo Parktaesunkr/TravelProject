@@ -32,3 +32,16 @@ Spring Boot를 이용한 JPA와 ThymeLeaf 프로젝트로 변환
 
 </ul>
 
+### 요구사항 명세
+![요구사항 명세](https://github.com/Parktaesunkr/boottrain/assets/129746792/c664117b-3af0-4f1d-847e-5f2d24492d13)
+
+### 유즈케이스 다이어그램
+![유즈케이스](https://github.com/Parktaesunkr/boottrain/assets/129746792/4f717986-6403-435d-86db-924169bdc01b)
+
+### 시퀀스 다이어그램
+![사용자 시퀀스](https://github.com/Parktaesunkr/boottrain/assets/129746792/76725cc9-5ab6-4205-80fa-5f9cd319f1a4)
+
+### ERD
+
+
+
