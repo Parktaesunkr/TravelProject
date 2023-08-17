@@ -42,6 +42,6 @@ Spring Boot를 이용한 JPA와 ThymeLeaf 프로젝트로 변환
 ![사용자 시퀀스](https://github.com/Parktaesunkr/boottrain/assets/129746792/76725cc9-5ab6-4205-80fa-5f9cd319f1a4)
 
 ### ERD
-
+![ERD](https://github.com/Parktaesunkr/Parktaesunkr/assets/129746792/8d6b4aa8-5177-4324-857a-b2deb2a117c1)
 
 
